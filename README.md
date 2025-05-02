@@ -1,1 +1,1 @@
-# flutter
+Event Booking App where users can browse a list of upcoming events, view event details with smooth Hero animations, and book events. Booked events are shown in a separate screen along with the total price. Users can also remove events from their booking list.
